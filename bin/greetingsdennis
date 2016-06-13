@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'greetingsdennis'
+puts Greetingsdennis.hi(ARGV[0])
